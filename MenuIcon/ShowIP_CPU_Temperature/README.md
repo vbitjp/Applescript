@@ -6,5 +6,5 @@ This is wrapper Applescript for [OSX CPU Temp](https://github.com/lavoiesl/osx-c
 
 ## Usage
 Just execute the `ShowIP_CPU_Temperature`.  
-And then, you can see as below when you click Param...
+And then, you can see as below when you click Param...  
 ![image](https://raw.githubusercontent.com/vbitjp/VbitImagestock/master/showip.png)
